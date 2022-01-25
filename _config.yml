@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiang Xiao.jpeg"
+title                    : "Jiang Xiao"
 title_separator          : "-"
 name                     : &name "Dr Xiao"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiang Xiao"
-  avatar           : "Jiang Xiao.png"
+  avatar           : "Jiang Xiao.jpeg"
   bio              : "Associate Professor, Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
