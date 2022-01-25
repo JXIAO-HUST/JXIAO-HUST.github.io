@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiang Xiao"
 title_separator          : "-"
 name                     : &name "Dr Xiao"
-description              : &description "Research scientist at HUST"
+description              : &description "personal description"
 url                      : https://iamosu111.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iamosu111/iamosu111.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiang Xiao"
   avatar           : "profile.png"
-  bio              : "Professor, School of Computer Science and Technology, Huazhong University of Science and Technology"
+  bio              : "Associate Professor, Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=sEnltmsAAAAJ&hl=zh-CN"
+  email            : "jiangxiao@hust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
