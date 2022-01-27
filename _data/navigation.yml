@@ -6,20 +6,20 @@ main:
   - title: "Grants"
     url: /grants/
 
-  - title: "Patent/Software"
-    url: /patent/
+ ## - title: "Patent/Software"
+ ##   url: /patent/
 
-  - title: "Professional Services"
-    url: /professional/
+  #- title: "Professional Services"
+  #  url: /professional/
 
-  - title: "Honors/Awards"
-    url: /awards/
+  #- title: "Honors/Awards"
+  #  url: /awards/
 
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
 
-  - title: "Group/Students"
-    url: /group/
+  #- title: "Group/Students"
+  #  url: /group/
 
-  - title: "Talks"
-    url: /talks/
+ # - title: "Talks"
+ #   url: /talks/
