@@ -1,11 +1,11 @@
 ---
 toc: true
+toc_label: "Group Presentation"
 permalink: /presentation/
 title: "Group Presentation"
 author_profile: true
 ---
 
-[toc]
 
 ## 2020_Spring
 
