@@ -9,8 +9,8 @@ main:
  ## - title: "Patent/Software"
  ##   url: /patent/
 
-  #- title: "Professional Services"
-  #  url: /professional/
+  - title: "Group Presentation"
+    url: /presentation/
 
   #- title: "Honors/Awards"
   #  url: /awards/
