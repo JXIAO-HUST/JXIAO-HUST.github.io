@@ -2,14 +2,15 @@
 toc: true
 toc_label: "Group Presentation"
 toc_sticky: true
+toc_icon: "cog"
 permalink: /presentation/
 title: "Group Presentation"
 author_profile: true
 ---
 
-[toc]
 
-## 2020_Spring
+
+# 2020_Spring
 
 | Date     | Lecturers    | Paper title                                                  | Conference | Slides                                                       |
 | -------- | ------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
@@ -25,7 +26,7 @@ author_profile: true
 | 20200603 | Cheng Yan    | CAPER: A Cross-Application Permissioned Blockchain           | VLDB'19    | [<font color=CornflowerBlue>Download</font>](https://gitee.com/junpni/bcts-resource/blob/master/pdf/slide2020/%E3%80%9020200603%E9%97%AB%E6%88%90-%E3%80%91%5BVLDB'19%5DCAPER-presentation.pptx) |
 
 
-## 2020_Fall
+# 2020_Fall
 
 | Date     | Lecturers    | Paper title                                                  | Conference            | Slides                                                       |
 | -------- | ------------ | ------------------------------------------------------------ | --------------------- | ------------------------------------------------------------ |
@@ -49,7 +50,7 @@ author_profile: true
 | 20201216 | Shuohua Dong | Blockene: A High Throughput Blockchain over Mobile Devices   | OSDI'20               | [<font color=CornflowerBlue>Download</font>](https://gitee.com/junpni/bcts-resource/blob/master/pdf/slide2020/%E3%80%9020201216%E7%A1%95%E5%8D%8E-%E3%80%91%5BSlides%5D%20Blockene_Dong%20Shuohua_2020.12.16.pptx) |
 | 20201218 | Shijie Zhang | Byzantine Ordere Consensus without Byzantine Oligarchy       | OSDI'20               | [<font color=CornflowerBlue>Download</font>](https://gitee.com/junpni/bcts-resource/blob/master/pdf/slide2020/%E3%80%9020201218%E4%B8%96%E6%A1%80-%E3%80%91%5BSlides%5D%20Byzantine%20Ordered%20Consensus%20without%20Byzantine%20Oligarchy.pptx) |
 
-## 2021 Spring
+# 2021 Spring
 
 
 | Date     | Lecturers    | Paper title                                                  | Conference         | Slides                                                       |
@@ -84,7 +85,7 @@ author_profile: true
 | 20210701 | Xiaohai Dai  | DenseChain: Faster Transaction Processing in Public Blockchains | ATC'21             | [<font color=CornflowerBlue>Download</font>](https://gitee.com/junpni/bcts_-resource_-presentation2021/tree/master/Spring/0624/Xiaohai%20Dai) |
 |          |              |                                                              |                    | [<font color=CornflowerBlue>Download</font>]()               |
 
-## 2021_Fall
+# 2021_Fall
 
 
 | Date     | Lecturers | Paper title                                                  | Conference  | Slides                                           |
