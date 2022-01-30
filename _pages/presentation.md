@@ -4,12 +4,7 @@ title: "Presentation"
 author_profile: true
 ---
 
-## 导航
-### [2020_Spring](#2020_Spring)
-### [2020_Fall](#2020_Fall)
-### [2021_Spring](#2021_Spring)
-### [2021_Fall](#2021_Fall)
-
+[toc]
 
 
 
