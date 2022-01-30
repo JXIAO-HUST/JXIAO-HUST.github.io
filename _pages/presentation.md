@@ -1,6 +1,7 @@
 ---
 toc: true
 toc_label: "Group Presentation"
+toc_sticky:true
 permalink: /presentation/
 title: "Group Presentation"
 author_profile: true
