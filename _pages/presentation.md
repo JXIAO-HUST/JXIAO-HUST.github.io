@@ -1,15 +1,13 @@
 ---
 permalink: /presentation/
 title: "Group Presentation"
-author_profile: true
+layout: single
 toc: true
 ---
 
 
 
 ## 2020_Spring
-### das
-#### 3213
 
 | Date     | Lecturers    | Paper title                                                  | Conference | Slides                                                       |
 | -------- | ------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
