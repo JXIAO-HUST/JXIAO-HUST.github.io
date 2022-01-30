@@ -5,6 +5,9 @@ layout: single
 toc: true
 ---
 
+* TOC
+{:toc}
+
 ## 2020_Spring
 
 | Date     | Lecturers    | Paper title                                                  | Conference | Slides                                                       |
@@ -78,7 +81,6 @@ toc: true
 | 20210610 | Shuohua Dong | Mneme A Mobile Distributed Ledger                            | INFOCOM'20         | [<font color=CornflowerBlue>Download</font>](https://gitee.com/junpni/bcts_-resource_-presentation2021/raw/master/Spring/0610/Shuohua%20Dong/%5BINFOCOM'20%5D%20Mneme%20A%20Mobile%20Distributed%20Ledger.pdf) |
 | 20210617 | Feng Cheng   | CycLedger A Scalable and Secure Parral Pro- tocol for Distributed Ledger via Sharding | IPDPS'20           | [<font color=CornflowerBlue>Download</font>](https://gitee.com/junpni/bcts_-resource_-presentation2021/tree/master/Spring/0617/Feng%20Cheng) |
 | 20210701 | Xiaohai Dai  | DenseChain: Faster Transaction Processing in Public Blockchains | ATC'21             | [<font color=CornflowerBlue>Download</font>](https://gitee.com/junpni/bcts_-resource_-presentation2021/tree/master/Spring/0624/Xiaohai%20Dai) |
-|          |              |                                                              |                    | [<font color=CornflowerBlue>Download</font>]()               |
 
 ## 2021_Fall
 
