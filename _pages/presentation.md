@@ -5,12 +5,6 @@ layout: single
 toc: true
 ---
 
-### [2020 Spring](#2020_Spring)
-### [2020 Fall](#2020_Fall)
-### [2021 Spring](#2021_Spring)
-### [2021 Fall](#2021_Fall)
-
-
 ## 2020_Spring
 
 | Date     | Lecturers    | Paper title                                                  | Conference | Slides                                                       |
