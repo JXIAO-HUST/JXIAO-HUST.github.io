@@ -8,11 +8,19 @@ author_profile: true
 
 ## 已公开发表或录用的论文：（*通信作者）
 
-[1]  Junpei Ni, **Jiang Xiao***, Shijie Zhang, Bo Li, Baochun Li, and Hai Jin. [FLUID: Towards Efficient Continuous Transaction Processing in DAG-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10114601). In IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023. （**CCF A**）
+[1] **Jiang Xiao**, Jian Chang, Licheng Lin, Binhong Li, Xiaohai Dai, Zehui Xiong, Kim-Kwang Raymond Choo, Keke Gai, and Hai Jin. [Cloak: Hiding Retrieval Information in Blockchain Systems via Distributed Query Requests][../_publications/Cloak_TSC_24.pdf]. In IEEE Transactions on Services Computing **(TSC)**, 2024. **(CCF A)**
 
-[2]  Hai Jin, Shuohua Dong, Xiaohai Dai, Yuandi Cai, and **Jiang Xiao***. [Dispatcher: Resource-aware Nakamoto Blockchain via Hierarchical Topology and Adaptive Incentives](). In ACM Distributed Ledger Technologies (**ACM DLT**), 2023.
+[2] Shijie Zhang, **Jiang Xiao***, Enping Wu, Feng Cheng, Bo Li, Wei Wang, and Han Jin. [MorphDAG: A Workload-Aware Elastic DAG-based Blockchain][https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10483543z]. In IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. （**CCF A**）
 
-[3]  常健，林立成，李彬弘，**肖江***，金海. [基于学习索引的图式区块链高效可验证查询机制](). 计算机研究与发展. 2023. (**CCF A中文期刊**)
+[3] Feng Cheng, **Jiang Xiao***, Cunning Liu, Shijie Zhang, Yifan Zhou, Bo Li, Baochun Li, and Hai Jin. SharDAG: Scaling DAG-Based Blockchains via Adaptive Sharding. In Proceedings of The 40th IEEE International Conference on Data Engineering **(ICDE)**, Utrecht, 2024. **(CCF A)**
+
+[4] Jintao Huang, Ningyu He, Kai Ma, **Jiang Xiao**, and Haoyu Wang. Miracle or Mirage? A Measurement Study of NFT Rug Pulls. In Proceedings of the ACM on Measurement and Analysis of Computing Systems **(POMACS)**, 2023.
+
+[5]  Junpei Ni, **Jiang Xiao***, Shijie Zhang, Bo Li, Baochun Li, and Hai Jin. [FLUID: Towards Efficient Continuous Transaction Processing in DAG-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10114601). In IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023. （**CCF A**）
+
+[6]  Hai Jin, Shuohua Dong, Xiaohai Dai, Yuandi Cai, and **Jiang Xiao***. [Dispatcher: Resource-aware Nakamoto Blockchain via Hierarchical Topology and Adaptive Incentives](). In ACM Distributed Ledger Technologies (**ACM DLT**), 2023.
+
+[7]  常健，林立成，李彬弘，**肖江***，金海. [基于学习索引的图式区块链高效可验证查询机制](). 计算机研究与发展. 2023. (**CCF A中文期刊**)
 
 [4]  Jian Chang, Binhong Li, **Jiang Xiao***, Licheng Lin, and Hai Jin. [Anole: A Lightweight and Verifiable Learned-based Index for Time Range Query on Blockchain Systems](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_34). In Proceedings of Database Systems for Advanced Applications (**DASFAA 2023**), pp. 519-534, Tianjin, April 2023. (**CCF B**)
 
@@ -144,3 +152,8 @@ author_profile: true
 
  
 
+1. **LightCross: Sharding with Lightweight Cross-Shard Execution for Smart Contracts**  
+   Xiaodong Qi and Yi Li  
+   *In Proceedings of the 42nd IEEE International Conference on Computer Communications (INFOCOM), 2024.*  
+   [![PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://example.com/lightcross.pdf) [![Info](https://img.icons8.com/ios-filled/50/000000/info.png)](https://example.com/lightcross-info)
+2. **A Vision on Intentions in Software Engineering**
