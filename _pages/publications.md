@@ -8,9 +8,9 @@ author_profile: true
 
 ## 已公开发表或录用的论文：（*通信作者）
 
-[1] **Jiang Xiao**, Jian Chang, Licheng Lin, Binhong Li, Xiaohai Dai, Zehui Xiong, Kim-Kwang Raymond Choo, Keke Gai, and Hai Jin. [Cloak: Hiding Retrieval Information in Blockchain Systems via Distributed Query Requests][../_publications/Cloak_TSC_24.pdf]. In IEEE Transactions on Services Computing **(TSC)**, 2024. **(CCF A)**
+[1] **Jiang Xiao**, Jian Chang, Licheng Lin, Binhong Li, Xiaohai Dai, Zehui Xiong, Kim-Kwang Raymond Choo, Keke Gai, and Hai Jin. [Cloak: Hiding Retrieval Information in Blockchain Systems via Distributed Query Requests](../_publications/Cloak_TSC_24.pdf). In IEEE Transactions on Services Computing **(TSC)**, 2024. **(CCF A)**
 
-[2] Shijie Zhang, **Jiang Xiao***, Enping Wu, Feng Cheng, Bo Li, Wei Wang, and Han Jin. [MorphDAG: A Workload-Aware Elastic DAG-based Blockchain][https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10483543z]. In IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. （**CCF A**）
+[2] Shijie Zhang, **Jiang Xiao***, Enping Wu, Feng Cheng, Bo Li, Wei Wang, and Han Jin. [MorphDAG: A Workload-Aware Elastic DAG-based Blockchain](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10483543z). In IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. （**CCF A**）
 
 [3] Feng Cheng, **Jiang Xiao***, Cunning Liu, Shijie Zhang, Yifan Zhou, Bo Li, Baochun Li, and Hai Jin. SharDAG: Scaling DAG-Based Blockchains via Adaptive Sharding. In Proceedings of The 40th IEEE International Conference on Data Engineering **(ICDE)**, Utrecht, 2024. **(CCF A)**
 
@@ -18,7 +18,7 @@ author_profile: true
 
 [5]  Junpei Ni, **Jiang Xiao***, Shijie Zhang, Bo Li, Baochun Li, and Hai Jin. [FLUID: Towards Efficient Continuous Transaction Processing in DAG-based Blockchains](https://ieeexplore.ieee.org/abstract/document/10114601). In IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023. （**CCF A**）
 
-[6]  Hai Jin, Shuohua Dong, Xiaohai Dai, Yuandi Cai, and **Jiang Xiao***. [Dispatcher: Resource-aware Nakamoto Blockchain via Hierarchical Topology and Adaptive Incentives](). In ACM Distributed Ledger Technologies (**ACM DLT**), 2023.
+[6]  Hai Jin, Shuohua Dong, Xiaohai Dai, Yuandi Cai, and **Jiang Xiao***. [Dispatcher: Resource-aware Nakamoto Blockchain via Hierarchical Topology and Adaptive Incentives](https://dl.acm.org/doi/pdf/10.1145/3638063). In ACM Distributed Ledger Technologies (**ACM DLT**), 2023.
 
 [7]  常健，林立成，李彬弘，**肖江***，金海. [基于学习索引的图式区块链高效可验证查询机制](). 计算机研究与发展. 2023. (**CCF A中文期刊**)
 
