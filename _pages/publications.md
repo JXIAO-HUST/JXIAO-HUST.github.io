@@ -270,7 +270,7 @@ Xiaohai Dai, **Jiang Xiao***, Wenhui Yang, Chaofan Wang, Jian Chang, Rui Han, an
 
     In APweb-WAIM, 2017. [<img src="https://img.icons8.com/ios-filled/50/000000/pdf.png" width="25" height="20">](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2022/IPDPS_UTXO%20verification.pdf)
 
-51.  **Scalable Hash Ripple Join on Spark**   
+51. **Scalable Hash Ripple Join on Spark**   
 
     Hao Liu, **Jiang Xiao***, Fengchao Peng.   
 
@@ -352,7 +352,7 @@ Xiaohai Dai, **Jiang Xiao***, Wenhui Yang, Chaofan Wang, Jian Chang, Rui Han, an
 
     **Jiang Xiao**, Kaishun Wu, Youwen Yi, Lu Wang, Lionel M. Ni.   
 
-    In Proceedings of the 33rd IEEE International Conference on Distributed Computing Systems **(IEEE ICDCS)**, Philadelphia, USA, July 2013. (**分布式系统领域顶会, CCF B**) [<img src="https://img.icons8.com/ios-filled/50/000000/pdf.png" width="25" height="20">](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2022/IPDPS_UTXO%20verification.pdf)https://repository.ust.hk/ir/bitstream/1783.1-62215/1/icdcs_2013a_c.pdf) 
+    In Proceedings of the 33rd IEEE International Conference on Distributed Computing Systems **(IEEE ICDCS)**, Philadelphia, USA, July 2013. (**分布式系统领域顶会, CCF B**) [<img src="https://img.icons8.com/ios-filled/50/000000/pdf.png" width="25" height="20">](http://www4.comp.polyu.edu.hk/~csbxiao/paper/2022/IPDPS_UTXO%20verification.pdf)
 
 65. **CSI-based Indoor Localization**   
 
