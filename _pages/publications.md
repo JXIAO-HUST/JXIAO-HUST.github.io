@@ -68,7 +68,7 @@ In Science China Information Sciences (SCIS), vol. 65, no. 153101, pp. 1-11, May
 软件学报, 2024, 35(11):5279-5305. **（CCF A中文）**
 
 16.	**区块链网络综述[J]**  
-司冰茹，**肖江***刘存扬，戴小海，金海.   
+司冰茹，**肖江***，刘存扬，戴小海，金海.   
 软件学报, 2024, 35(2):773-799. **（CCF A中文）**
 
 17.	**HNN4RP：基于异构图神经网络的以太坊地毯拉动骗局检测[J]**  
@@ -76,7 +76,7 @@ In Science China Information Sciences (SCIS), vol. 65, no. 153101, pp. 1-11, May
 电子与信息学报，2025, 47(10):3395-3409. **（CCF A中文）**（2025年度优秀论文）
 
 18.	**ErlangShen: 基于流水线低IO访问的图式区块链高效事务执行机制[J]**  
-**肖江**,吴恩平，张世桀，伏子豪，金海. 
+**肖江**，吴恩平，张世桀，伏子豪，金海. 
 电子与信息学报，2024, 46(5):2111-2121. **（CCF A中文）**
 
 19.	**Nezha: Exploiting Concurrency for Transaction Processing in DAG-based Blockchains**  
@@ -116,41 +116,42 @@ In Proceedings of Database Systems for Advanced Applications (DASFAA 2023), pp. 
 In Pattern Recognition (PR), vol. 121, pp. 1-12, January 2022. ** (CCF B)**
 
 28.	**Demystifying Ethereum Account Diversity: Observations, Models and Analysis**  
-Chaofan Wang, Xiaohai Dai, **Jiang Xiao***, Chenchen Li, Ming Wen, Bingbing Zhou, and Hai Jin. In Frontiers of Computer Science (FCS), vol. 16, no. 4, pp. 164505, 2022. ** (CCF B)**
+Chaofan Wang, Xiaohai Dai, **Jiang Xiao***, Chenchen Li, Ming Wen, Bingbing Zhou, and Hai Jin.
+In Frontiers of Computer Science (FCS), vol. 16, no. 4, pp. 164505, 2022. ** (CCF B)**
 
-29.	**MorphDAG: elastic DAG-based blockchains at scale**  
+30.	**MorphDAG: elastic DAG-based blockchains at scale**  
 Yifan Zhou, **Jiang Xiao***, Shijie Zhang, and Hai Jin.  
 In Frontiers of Computer Science (FCS), vol. 8, no. 20, pp. 2008110-1, 2026. ** (CCF B)**
 
-30.	**SpiralGuard: Characterizing and Predicting Death Spiral Risks in Algorithmic Stablecoins**
+31.	**SpiralGuard: Characterizing and Predicting Death Spiral Risks in Algorithmic Stablecoins**
 Minrui Wu, **Jiang Xiao***, Haoyu Wang, Xiaohai Dai.  
 In Frontiers of Computer Science (FCS), 2026. DOI:10.1007/s11704-025-50577-9 ** (CCF B)**
 
-31.	**A Survey on Wireless Device-free Human Sensing: Application Scenarios, Current Solutions, and Open Issues**  
+32.	**A Survey on Wireless Device-free Human Sensing: Application Scenarios, Current Solutions, and Open Issues**  
 **Jiang Xiao**, Huichuwu Li, Minrui Wu, Hai Jin, M. Jamal Deen, Jiannong Cao
 In ACM Computing Surveys (ACM CSUR), vol. 55, no. 5, pp. 1-15, December 2022.** (JCR Q1)**
 
-32.	**Cross-Cluster Federated Learning and Blockchain for Internet of Medical Things  
+33.	**Cross-Cluster Federated Learning and Blockchain for Internet of Medical Things  
 Hai Jin, Xiaohai Dai, **Jiang Xiao***, Baochun Li, Huichuwu Li, Yan Zhang.
  In IEEE Internet of Things Journal (IOT), vol. 8, no. 21, pp. 15776-15784, November 1, 2021.** (JCR Q1) **
 
-33.	**SynergyChain: A Multichain-based Data Sharing Framework with Hierarchical Access Control**  
+34.	**SynergyChain: A Multichain-based Data Sharing Framework with Hierarchical Access Control**  
 Chang, Jian, Junpei Ni, **Jiang Xiao***, Xiaohai Dai, and Hai Jin.
  In IEEE Internet of Things Journal (IOT), vol. 9, no. 16, pp. 14767-14778, August 2022. **(JCR Q1) **
 
-34.	**AMVchain: authority management mechanism on blockchain-based voting systems**   
+35.	**AMVchain: authority management mechanism on blockchain-based voting systems**   
 Chenchen Li, **Jiang Xiao***, Xiaohai Dai, and Hai Jin.
 In Peer-to-Peer Networking and Applications (PPNA), vol. 14, no. 5, pp. 2801-2812, September 2021.** (JCR QR2)**
 
-35.	**SpiralSeer: A Stage-Wise Risk Prediction Framework for Algorithmic Stablecoins in DeFi**  
+36.	**SpiralSeer: A Stage-Wise Risk Prediction Framework for Algorithmic Stablecoins in DeFi**  
 Minrui Wu, **Jiang Xiao***.
  In Proceedings of The 21st International Conference on Mobility, Sensing and Networking (MSN 2025), December 3-6, 2025, Bandung, Indonesia. (CCF C)
 
-36.	**Dispatcher: Resource-aware Nakamoto Blockchain via Hierarchical Topology and Adaptive Incentives**  
+37.	**Dispatcher: Resource-aware Nakamoto Blockchain via Hierarchical Topology and Adaptive Incentives**  
 Hai Jin, Shuohua Dong, Xiaohai Dai*, Yuandi Cai, and **Jiang Xiao***. 
 In ACM Distributed Ledger Technologies (ACM DLT), vol. 3, no. 2, pp.1-20, June 2024. (ACM专注于区块链的新兴期刊)
 
-37.	**CrossDID: A Secure and Accountable Cross-Chain Decentralized Identity Systems**  
+38.	**CrossDID: A Secure and Accountable Cross-Chain Decentralized Identity Systems**  
 Minrui Wu, **Jiang Xiao***, Chenchen Li, and Hai Jin.
 In Proceedings of 20th International Conference on Green, Pervasive, and Cloud Computing (GPC 2025), December 9-12, 2025, Kuala Lumpur, Malaysia. (**国际会议最佳论文奖**)
 
