@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-## 近五年代表性论文：（*通信作者）
+## 近五年高水平论文列表：（*通信作者）
 1.	**Seer: Accelerating Blockchain Transaction Execution by Fine-Grained Branch Prediction**
    Shijie Zhang, Ru Cheng, Xinpeng Liu, **Jiang Xiao***, Hai Jin, and Bo Li.
   	In Proceedings of the VLDB Endowment (**PVLDB 2024**), vol. 18, no.3, pp. 822-835, November 2024. (**CCF A**)
