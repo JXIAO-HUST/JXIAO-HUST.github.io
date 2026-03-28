@@ -40,15 +40,15 @@ Hai Jin, Chenchen Li, **Jiang Xiao***, Teng Zhang, Xiaohai Dai, and Bo Li.
 In IEEE Journal on Selected Areas in Communications (JSAC), vol. 40, no. 12, pp. 3660-3671, December 2022. (**CCF A**)
 
 9.		**Cloak: Hiding Retrieval Information in Blockchain Systems via Distributed Query Requests**
-**Jiang Xiao***, Jian Chang, Licheng Lin, Binhong Li, Xiaohai Dai, Zehui Xiong, Kim-Kwang Raymond Choo, Keke Gai, and Hai Jin
+**Jiang Xiao**, Jian Chang, Licheng Lin, Binhong Li, Xiaohai Dai, Zehui Xiong, Kim-Kwang Raymond Choo, Keke Gai, and Hai Jin.
 In IEEE Transactions on Services Computing (TSC), vol. 17, no.6, pp. 3213-3226, June 7, 2024. (**CCF A**)
 
 10.	**FlexIM: Efficient and Verifiable Index Management in Blockchain**
 Binhong Li, Licheng Lin, Shijie Zhang*, Jianliang Xu, **Jiang Xiao***, Bo Li, and Hai Jin
 In IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 37, no. 6, pp. 3399-3412, March 03, 2025. (**CCF A**)
 
-11.		**PlainDAG: A Low-Latency Asynchronous DAG BFT Protocol With Best-Eﬀot Broadcast**
-Yifan Zhou, **Jiang Xiao**, Xiaohai Dai*, and Hai Jin. 
+11.		**PlainDAG: A Low-Latency Asynchronous DAG BFT Protocol With Best-Effort Broadcast**
+Yifan Zhou, **Jiang Xiao***, Xiaohai Dai*, and Hai Jin. 
 In IEEE Transactions on Information Forensics and Security (TIFS), vol. 20, pp. 9792-9805, September 8, 2025. (**CCF A**)
 
 12.	**InFit: Combination Movement Recognition for Intensive Fitness Assistant Via Wi-Fi** 
@@ -123,12 +123,12 @@ In Frontiers of Computer Science (FCS), vol. 16, no. 4, pp. 164505, 2022. ** (CC
 Yifan Zhou, **Jiang Xiao***, Shijie Zhang, and Hai Jin
 In Frontiers of Computer Science (FCS), vol. 8, no. 20, pp. 2008110-1, 2026. ** (CCF B)**
 
-30.		SpiralGuard: Characterizing and Predicting Death Spiral Risks in Algorithmic Stablecoins
+30.	SpiralGuard: Characterizing and Predicting Death Spiral Risks in Algorithmic Stablecoins
 Minrui Wu, **Jiang Xiao***, Haoyu Wang, Xiaohai Dai
 In Frontiers of Computer Science (FCS), 2026. DOI:10.1007/s11704-025-50577-9 ** (CCF B)**
 
 31.	**A Survey on Wireless Device-free Human Sensing: Application Scenarios, Current Solutions, and Open Issues**
-**Jiang Xiao***, Huichuwu Li, Minrui Wu, Hai Jin, M. Jamal Deen, Jiannong Cao
+**Jiang Xiao**, Huichuwu Li, Minrui Wu, Hai Jin, M. Jamal Deen, Jiannong Cao
 In ACM Computing Surveys (ACM CSUR), vol. 55, no. 5, pp. 1-15, December 2022.** (JCR Q1)**
 
 32.	**Cross-Cluster Federated Learning and Blockchain for Internet of Medical Things
@@ -153,4 +153,3 @@ In ACM Distributed Ledger Technologies (ACM DLT), vol. 3, no. 2, pp.1-20, June 2
 37.	**CrossDID: A Secure and Accountable Cross-Chain Decentralized Identity Systems**
 Minrui Wu, **Jiang Xiao***, Chenchen Li, and Hai Jin
 In Proceedings of 20th International Conference on Green, Pervasive, and Cloud Computing (GPC 2025), December 9-12, 2025, Kuala Lumpur, Malaysia. (**国际会议最佳论文奖**)
-
