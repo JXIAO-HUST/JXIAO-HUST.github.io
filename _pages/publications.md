@@ -7,13 +7,13 @@ author_profile: true
 ---
 
 ## 近五年高水平论文列表：（*通信作者）
-1.	**Seer: Accelerating Blockchain Transaction Execution by Fine-Grained Branch Prediction**
-   Shijie Zhang, Ru Cheng, Xinpeng Liu, **Jiang Xiao***, Hai Jin, and Bo Li.
-   In Proceedings of the VLDB Endowment (**PVLDB 2024**), vol. 18, no.3, pp. 822-835, November 2024. (**CCF A**)
+1.	**Seer: Accelerating Blockchain Transaction Execution by Fine-Grained Branch Prediction**  
+ 	Shijie Zhang, Ru Cheng, Xinpeng Liu, **Jiang Xiao***, Hai Jin, and Bo Li.
+  	 In Proceedings of the VLDB Endowment (**PVLDB 2024**), vol. 18, no.3, pp. 822-835, November 2024. (**CCF A**)
   	
-3.	**SharDAG: Scaling DAG-based Blockchains via Adaptive Sharding**
-   Feng Cheng, **Jiang Xiao***, Cunyang Liu, Shijie Zhang, Yifan Zhou, Bo Li, Baochun Li, Hai Jin.
-   In Proceedings of the 40th IEEE International Conference on Data Engineering (**ICDE 2024**), pp. 2068-2081, May 13, 2024, Utrecht, Netherlands. (**CCF A**)
+2.	**SharDAG: Scaling DAG-based Blockchains via Adaptive Sharding**
+   	Feng Cheng, **Jiang Xiao***, Cunyang Liu, Shijie Zhang, Yifan Zhou, Bo Li, Baochun Li, Hai Jin.
+  	 In Proceedings of the 40th IEEE International Conference on Data Engineering (**ICDE 2024**), pp. 2068-2081, May 13, 2024, Utrecht, Netherlands. (**CCF A**)
 
 4.	**JiangZiya: Dependency-aware Smart Contract Migration for Scalable Sharded Blockchains**
   Cunyang Liu, **Jiang Xiao***, Haoyu Dong, Ru Cheng, Yifan Zhou, Shijie Zhang, and Hai Jin.
@@ -71,7 +71,7 @@ author_profile: true
    司冰茹，**肖江***刘存扬，戴小海，金海. 
    软件学报, 2024, 35(2):773-799. **（CCF A中文）**
 
-18.	** HNN4RP：基于异构图神经网络的以太坊地毯拉动骗局检测[J]**
+18.	**HNN4RP：基于异构图神经网络的以太坊地毯拉动骗局检测[J]**
    李晨晨，金海，吴敏睿，**肖江***.
    电子与信息学报，2025, 47(10):3395-3409. **（CCF A中文）**（2025年度优秀论文）
 
@@ -154,3 +154,4 @@ author_profile: true
 38.	**CrossDID: A Secure and Accountable Cross-Chain Decentralized Identity Systems**
    Minrui Wu, **Jiang Xiao***, Chenchen Li, and Hai Jin
    In Proceedings of 20th International Conference on Green, Pervasive, and Cloud Computing (GPC 2025), December 9-12, 2025, Kuala Lumpur, Malaysia. (**国际会议最佳论文奖**)
+
