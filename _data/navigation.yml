@@ -21,5 +21,8 @@ main:
   #- title: "Group/Students"
   #  url: /group/
 
- # - title: "Talks"
- #   url: /talks/
+ - title: "Invited Talks"
+    url: /talks/
+
+ - title: "Professional Services"
+    url: /services/
