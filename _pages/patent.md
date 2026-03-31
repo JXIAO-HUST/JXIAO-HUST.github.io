@@ -1,4 +1,4 @@
-<img width="468" height="623" alt="image" src="https://github.com/user-attachments/assets/a8765b06-39de-4583-8672-93cfe5f50b59" /><img width="468" height="623" alt="image" src="https://github.com/user-attachments/assets/a8765b06-39de-4583-8672-93cfe5f50b59" />---
+---
 permalink: /patent/
 title: "Patent & Open-Source Codes"
 author_profile: true
