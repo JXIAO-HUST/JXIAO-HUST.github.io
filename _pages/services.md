@@ -7,7 +7,7 @@ author_profile: true
 
 [1]	2018-2020《IEEE Blockchain Technical Briefs》创刊编委  
 
-[2]	2019至今《Frontiers of Computer Science》(FCS) 期刊青年编委（CCF B）  
+[2]	2019至今《Frontiers of Computer Science》(FCS) 期刊青年编委（CCF B）![photo](/images/FCS.JPG)  
 
 [3]	2020至今《Blockchain Research and Applications》(BCRA) 期刊编委（CCF B）  
 
