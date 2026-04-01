@@ -10,7 +10,7 @@ author_profile: true
 [2]	2019至今 [**《Frontiers of Computer Science》(FCS)**] **期刊青年编委**（**CCF B**）
 ![photo](/images/FCS.jpg)  
 
-[3]	2020至今 [**《Blockchain Research and Applications》(BCRA)**] (https://www.journals.elsevier.com/blockchain-research-and-applications) **期刊编委**（**CCF B**）  
+[3]	2020至今 [**《Blockchain Research and Applications》(BCRA)**](https://www.journals.elsevier.com/blockchain-research-and-applications) **期刊编委**（**CCF B**）  
 
 [4]	2024年 [**IEEE Global Blockchain Conference**](https://ieeegbc.org/2024/) ** **全球区块链大会技术专题主席**
 
