@@ -19,6 +19,7 @@ author_profile: true
 [6]	2019年IEEE BlockApp区块链学术会议程序委员会主席  
 
 [7]	2017/2018年IEEE ICPADS区块链学术研讨会程序委员会主席  
+![photo](/images/Chair17-BCTS 区块链学术研讨会程序委员会主席.JPG)
 
 [8]	2019/2020/2021/2022年  IEEE ICDCS程序委员会委员（分布式系统顶会，CCF B）  
 
