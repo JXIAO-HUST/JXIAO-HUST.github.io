@@ -15,8 +15,10 @@ author_profile: true
 [4]	2024年IEEE Global Blockchain Conference全球区块链大会技术专题主席  
 
 [5]	2021年IEEE BlockSys区块链学术会议（CCF C）程序委员会主席  
-![photo](/images/PChair-BlockSys21.jpg)
+![photo](/images/PChair-BlockSys21.jpg)  
+
 [6]	2019年IEEE BlockApp区块链学术会议程序委员会主席  
+![photo](/images/PChair-BlockApp19.jpg)  
 
 [7]	2017/2018年IEEE ICPADS区块链学术研讨会程序委员会主席  
 ![photo](/images/PChair-BCTS17.JPG)
