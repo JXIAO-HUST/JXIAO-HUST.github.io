@@ -7,9 +7,9 @@ author_profile: true
 
 **国际国内重要学术报告**：
 
-[1] Jiang Xiao, “Enabling Practices for Blockchain Data Management”, [International Conference on Blockchain and Trustworthy Systems (BlockSys 2020)](https://blocksys2020.github.io/), August 6-7, 2020, Dali, Yunan. (特邀报告，CCF C)
+[1] Jiang Xiao, “Enabling Practices for Blockchain Data Management”, [International Conference on Blockchain and Trustworthy Systems (BlockSys 2020)](https://www.iconf.org/conference/blocksys'2020), August 6-7, 2020, Dali, Yunan. (特邀报告，CCF C)
 
-[2] Jiang Xiao, “Blockchain Storage Scalability: State of the Art and Challenges”, [The 7th International Joint Conference on Web and Big Data (APWeb-WAIM 2023)](https://apweb-waim2023.github.io/), October 8, 2023, Wuhan. (特邀报告，CCF C)
+[2] Jiang Xiao, “Blockchain Storage Scalability: State of the Art and Challenges”, [The 7th International Joint Conference on Web and Big Data (APWeb-WAIM 2023)](https://apweb-waim2023.github.io/), October 8, 2023, Wuhan. (特邀报告，CCF C)[会议手册](/files/APWeb.pdf)
 
 [3] Jiang Xiao, “Enabling Practices for Scalable Blockchain Storage”, [International Conference on Service Science (ICSS 2022)](https://icss-conference.org/icss2022/), May 14, 2022, Online. (特邀报告，CCF C)
 
