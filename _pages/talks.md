@@ -9,13 +9,13 @@ author_profile: true
 
 [1] Jiang Xiao, “Enabling Practices for Blockchain Data Management”, [International Conference on Blockchain and Trustworthy Systems (BlockSys 2020)](https://www.iconf.org/conference/blocksys'2020), August 6-7, 2020, Dali, Yunan. (特邀报告，CCF C)
 
-[2] Jiang Xiao, “Blockchain Storage Scalability: State of the Art and Challenges”, [The 7th International Joint Conference on Web and Big Data (APWeb-WAIM 2023)](https://apweb-waim2023.github.io/), October 8, 2023, Wuhan. (特邀报告，CCF C)[会议手册](/files/APWeb.pdf)
+[2] Jiang Xiao, “Blockchain Storage Scalability: State of the Art and Challenges”, [The 7th International Joint Conference on Web and Big Data (APWeb-WAIM 2023)](https://apweb-waim2023.github.io/), October 8, 2023, Wuhan. (特邀报告，CCF C)[**会议手册**](/files/APWeb.pdf)
 
 [3] Jiang Xiao, “Enabling Practices for Scalable Blockchain Storage”, [International Conference on Service Science (ICSS 2022)](https://icss-conference.org/icss2022/), May 14, 2022, Online. (特邀报告，CCF C)
 
 [4] Jiang Xiao, “Evening Out the Stumbling Blocks for Today’s Blockchain App Ecosystem”, [The First International Workshop on Blockchain and Mobile Applications (BlockApp 2019)](https://mdm2019.org/workshops.html#blockapp) (in conjunction with IEEE MDM 2019), June 10, 2019, Hong Kong, China. (特邀报告)
 
-[5] Jiang Xiao, “Scaling the Unscalable: Challenges and Solutions in Blockchain Storage”, [International Symposium on Parallel Computing and Distributed Systems (PCDS2024)](https://pcds2024.org/), September 21-22, 2024, Singapore. (特邀报告) [会议手册](/files/PCDS.pdf)
+[5] Jiang Xiao, “Scaling the Unscalable: Challenges and Solutions in Blockchain Storage”, [International Symposium on Parallel Computing and Distributed Systems (PCDS2024)](https://pcds2024.org/), September 21-22, 2024, Singapore. (特邀报告) [**特邀讲者证书**](/files/PCDS.pdf)
 
 [6] Jiang Xiao, “Data Management for Blockchain Systems”,[The 15th EAI International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (QShine 2019)](https://eai.events/qshine2019/), November 22-23, 2019, Shenzhen, China. (特邀报告)
 
