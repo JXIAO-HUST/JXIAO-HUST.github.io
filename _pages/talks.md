@@ -19,7 +19,7 @@ author_profile: true
 
 [6] Jiang Xiao, “Data Management for Blockchain Systems”,[The 15th EAI International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (QShine 2019)](https://eai.events/qshine2019/), November 22-23, 2019, Shenzhen, China. (特邀报告)[**特邀讲者证书**](/files/QShine.pdf)
 
-[7] Jiang Xiao, “Blockchain: The Cornerstone of Trust in the Rule of Law Era”, [Innovation and Entrepreneurship Talk Series](https://www.macaust.edu.mo/zh-hant/innovation-entrepreneurship-talk-series), January 14, 2019, Macau. (特邀报告)
+[7] Jiang Xiao, “Blockchain: The Cornerstone of Trust in the Rule of Law Era”, [Innovation and Entrepreneurship Talk Series](https://www.macaust.edu.mo/zh-hant/innovation-entrepreneurship-talk-series), January 14, 2019, Macau. (特邀报告)[**Innovation Talk日程**](/files/Macau InnovationTalk.pdf)
 
 [8] 肖江，“跨链场景下分布式数字身份的机遇与挑战”，[中国计算机大会CNCC 2023分布式数字身份论坛](https://cncc.ccf.org.cn/2023/forums/detail?id=105)，2023年10月28日，沈阳。(特邀报告)[**CNCC2023 DID论坛日程及合影**](/files/CNCC分布式身份论坛日程.pdf)
 
