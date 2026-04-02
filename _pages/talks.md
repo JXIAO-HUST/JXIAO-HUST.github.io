@@ -45,15 +45,15 @@ author_profile: true
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
-[10] 肖江，“图链：高并发可扩展区块链存储的基础理论和方法研究”，<a href="https://blockchain.ccf.org.cn/2024/conf/forumdetail?id=12" style="color:#0066cc; font-weight:bold;">第七届CCF中国区块链技术大会-区块链科学家论坛暨国家重点研发计划区块链重点专项特别论坛</a>，2024年12月14日，上海。(特邀报告) <a href="/files/CCF区24.pdf" style="color:#0066cc;">CCF区块链科学家论坛日程</a>
+[10] 肖江，“图链：高并发可扩展区块链存储的基础理论和方法研究”，<a href="https://blockchain.ccf.org.cn/2024/conf/forumdetail?id=12" style="color:#0066cc; font-weight:bold;">第七届CCF中国区块链技术大会-区块链科学家论坛暨国家重点研发计划区块链重点专项特别论坛</a>，2024年12月14日，上海。(特邀报告) <a href="/files/CCF24.pdf" style="color:#0066cc;">CCF区块链科学家论坛日程</a>
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
-[11] 肖江，“可扩展图式区块链存储系统的研究与实践”，<a href="https://blockchain.ccf.org.cn/2023/conf/forumdetail?id=8" style="color:#0066cc; font-weight:bold;">第五届CCF中国区块链技术大会-区块链技术新进展分论坛</a>，2023年2月11日，无锡。(特邀报告)
+[11] 肖江，“可扩展图式区块链存储系统的研究与实践”，<a href="https://blockchain.ccf.org.cn/2023/conf/forumdetail?id=8" style="color:#0066cc; font-weight:bold;">第五届CCF中国区块链技术大会-区块链技术新进展分论坛</a>，2023年2月11日，无锡。(特邀报告)<a href="/files/第五届 CCF中国区块链技术大会议程.pdf" style="color:#0066cc;">CCF区块链技术新进展论坛日程</a>
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
-[12] 肖江，“区块链存储可扩展性初探”，<a href="https://blockchain.ccf.org.cn/2021/conf/forumdetail?id=6" style="color:#0066cc; font-weight:bold;">2021年CCF中国区块链技术大会-区块链隐私计算融合技术与应用分论坛</a>，2021年12月26日，海口。(特邀报告)
+[12] 肖江，“区块链存储可扩展性初探”，<a href="https://blockchain.ccf.org.cn/2021/conf/forumdetail?id=6" style="color:#0066cc; font-weight:bold;">2021年CCF中国区块链技术大会-区块链隐私计算融合技术与应用分论坛</a>，2021年12月26日，海口。(特邀报告) <a href="/files/21年CCF中国区块链技术大会论坛特邀报告证书.pdf" style="color:#0066cc;">特邀讲者证书</a>
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
