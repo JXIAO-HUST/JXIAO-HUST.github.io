@@ -17,7 +17,7 @@ author_profile: true
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
-[3] Jiang Xiao, “Enabling Practices for Scalable Blockchain Storage”, <a href="https://icss-conference.org/icss2022/" style="color:#0066cc; font-weight:bold;">International Conference on Service Science (ICSS 2022)</a>, May 14, 2022, Online. (特邀报告，CCF C)
+[3] Jiang Xiao, “Enabling Practices for Scalable Blockchain Storage”, <a href="https://icss-conference.org/icss2022/" style="color:#0066cc; font-weight:bold;">International Conference on Service Science (ICSS 2022)</a>, May 14, 2022, Online. (特邀报告，CCF C)<a href="/files/CCFICSS22Program.pdf" style="color:#0066cc;">会议手册</a>
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
