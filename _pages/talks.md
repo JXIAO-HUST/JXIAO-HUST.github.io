@@ -17,7 +17,7 @@ author_profile: true
 
 [5] Jiang Xiao, “Scaling the Unscalable: Challenges and Solutions in Blockchain Storage”, [International Symposium on Parallel Computing and Distributed Systems (PCDS2024)](https://pcds2024.org/), September 21-22, 2024, Singapore. (特邀报告) [**特邀讲者证书**](/files/PCDS.pdf)
 
-[6] Jiang Xiao, “Data Management for Blockchain Systems”,[The 15th EAI International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (QShine 2019)](https://eai.events/qshine2019/), November 22-23, 2019, Shenzhen, China. (特邀报告)
+[6] Jiang Xiao, “Data Management for Blockchain Systems”,[The 15th EAI International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (QShine 2019)](https://eai.events/qshine2019/), November 22-23, 2019, Shenzhen, China. (特邀报告)[**特邀讲者证书**](/files/QShine.pdf)
 
 [7] Jiang Xiao, “Blockchain: The Cornerstone of Trust in the Rule of Law Era”, [Innovation and Entrepreneurship Talk Series](https://www.macaust.edu.mo/zh-hant/innovation-entrepreneurship-talk-series), January 14, 2019, Macau. (特邀报告)
 
