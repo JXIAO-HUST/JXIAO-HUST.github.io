@@ -13,7 +13,7 @@ author_profile: true
 
 [3] Jiang Xiao, “Enabling Practices for Scalable Blockchain Storage”, [International Conference on Service Science (ICSS 2022)](https://icss-conference.org/icss2022/), May 14, 2022, Online. (特邀报告，CCF C)
 
-[4] Jiang Xiao, “Evening Out the Stumbling Blocks for Today’s Blockchain App Ecosystem”, [The First International Workshop on Blockchain and Mobile Applications (BlockApp 2019)](https://mdm2019.org/workshops.html#blockapp) (in conjunction with IEEE MDM 2019), June 10, 2019, Hong Kong, China. (特邀报告)
+[4] Jiang Xiao, “Evening Out the Stumbling Blocks for Today’s Blockchain App Ecosystem”, [The First International Workshop on Blockchain and Mobile Applications (BlockApp 2019)](https://mdm2019.org/workshops.html#blockapp) (in conjunction with IEEE MDM 2019), June 10, 2019, Hong Kong, China. (特邀报告)[**会议手册**](/files/BlockApp_program.pdf)
 
 [5] Jiang Xiao, “Scaling the Unscalable: Challenges and Solutions in Blockchain Storage”, [International Symposium on Parallel Computing and Distributed Systems (PCDS2024)](https://pcds2024.org/), September 21-22, 2024, Singapore. (特邀报告) [**特邀讲者证书**](/files/PCDS.pdf)
 
