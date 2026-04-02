@@ -57,7 +57,7 @@ author_profile: true
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
-[13] 肖江，“可扩展图式区块链存储系统的研究与实践”，<a href="https://ccfsys.ccf.org.cn/2023/forums/detail?id=5" style="color:#0066cc; font-weight:bold;">第二届CCF中国计算机系统大会 (CCFSys) “区块链分布式账本技术”分论坛</a>，2023年4月5日，南昌。(特邀报告)
+[13] 肖江，“可扩展图式区块链存储系统的研究与实践”，<a href="https://ccfsys.ccf.org.cn/2023/forums/detail?id=5" style="color:#0066cc; font-weight:bold;">第二届CCF中国计算机系统大会 (CCFSys) “区块链分布式账本技术”分论坛</a>，2023年4月5日，南昌。(特邀报告)<a href="/files/2023年CCF计算机系统大会会议手册.pdf" style="color:#0066cc;">CCFSys论坛手册</a>
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
