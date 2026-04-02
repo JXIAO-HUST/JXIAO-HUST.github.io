@@ -45,7 +45,7 @@ author_profile: true
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
-[10] 肖江，“图链：高并发可扩展区块链存储的基础理论和方法研究”，<a href="https://blockchain.ccf.org.cn/2024/conf/forumdetail?id=12" style="color:#0066cc; font-weight:bold;">第七届CCF中国区块链技术大会-区块链科学家论坛暨国家重点研发计划区块链重点专项特别论坛</a>，2024年12月14日，上海。(特邀报告)
+[10] 肖江，“图链：高并发可扩展区块链存储的基础理论和方法研究”，<a href="https://blockchain.ccf.org.cn/2024/conf/forumdetail?id=12" style="color:#0066cc; font-weight:bold;">第七届CCF中国区块链技术大会-区块链科学家论坛暨国家重点研发计划区块链重点专项特别论坛</a>，2024年12月14日，上海。(特邀报告) <a href="/files/CCF区24.pdf" style="color:#0066cc;">CCF区块链科学家论坛日程</a>
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
