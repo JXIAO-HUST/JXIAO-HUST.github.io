@@ -61,7 +61,7 @@ author_profile: true
 </div>
 
 <div style="padding-left:2em; text-indent:-2em; margin-bottom:1em;">
-[14] 肖江，“区块链存储可扩展性研究”，<a href="https://yocsef.ccf.org.cn/activity_detail?id=1085" style="color:#0066cc; font-weight:bold;">中国计算机学会青年计算机科技论坛（CCF YOCSEF）“区块链自主创新之路”论坛</a>，2022年8月20日，广州。(特邀报告)
+[14] 肖江，“区块链存储可扩展性研究”，<a href="https://yocsef.ccf.org.cn/activity_detail?id=1085" style="color:#0066cc; font-weight:bold;">中国计算机学会青年计算机科技论坛（CCF YOCSEF）“区块链自主创新之路”论坛</a>，2022年8月20日，广州。(特邀报告)<a href="/files/2022CCFYOCSEF广州.pdf" style="color:#0066cc;">特邀讲者邀请函及证书</a>
 </div>
 
 </div>
