@@ -21,9 +21,9 @@ author_profile: true
 
 [7] Jiang Xiao, “Blockchain: The Cornerstone of Trust in the Rule of Law Era”, [Innovation and Entrepreneurship Talk Series](https://www.macaust.edu.mo/zh-hant/innovation-entrepreneurship-talk-series), January 14, 2019, Macau. (特邀报告)
 
-[8] 肖江，“跨链场景下分布式数字身份的机遇与挑战”，[中国计算机大会CNCC 2023分布式数字身份论坛](https://cncc.ccf.org.cn/2023/forums/detail?id=105)，2023年10月28日，沈阳。(特邀报告)[**CNCC DID论坛日程及合影**](/files/CNCC分布式身份论坛日程.pdf)
+[8] 肖江，“跨链场景下分布式数字身份的机遇与挑战”，[中国计算机大会CNCC 2023分布式数字身份论坛](https://cncc.ccf.org.cn/2023/forums/detail?id=105)，2023年10月28日，沈阳。(特邀报告)[**CNCC2023 DID论坛日程及合影**](/files/CNCC分布式身份论坛日程.pdf)
 
-[9] 肖江，“区块链存储可扩展性的研究与实践”，[中国计算机大会CNCC 2021区块链前沿技术与应用论坛](https://cncc.ccf.org.cn/2021/forums/detail?id=89)，2021年11月18日，深圳。(特邀报告)
+[9] 肖江，“区块链存储可扩展性的研究与实践”，[中国计算机大会CNCC 2021区块链前沿技术与应用论坛](https://cncc.ccf.org.cn/2021/forums/detail?id=89)，2021年11月18日，深圳。(特邀报告)[**CNCC2021 区块链论坛日程**](/files/CNCC 区块链论坛议程.pdf)
 
 [10] 肖江，“图链：高并发可扩展区块链存储的基础理论和方法研究”，[第七届CCF中国区块链技术大会-区块链科学家论坛暨国家重点研发计划区块链重点专项特别论坛](https://blockchain.ccf.org.cn/2024/conf/forumdetail?id=12)，2024年12月14日，上海。(特邀报告)
 
